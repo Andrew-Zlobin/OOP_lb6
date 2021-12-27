@@ -1,0 +1,13 @@
+﻿  main.cpp
+  Cell.cpp
+  Map.cpp
+  Enemy.cpp
+  MoveEnemy.cpp
+  Tank.cpp
+  Warrior.cpp
+  MovePlayer.cpp
+  Player.cpp
+  Unit.cpp
+  Point.cpp
+  Создание кода...
+  OOP.vcxproj -> D:\Code\OOP\full\OOP\Debug\OOP.exe

@@ -1,0 +1,6 @@
+﻿  Level.cpp
+D:\Code\OOP\full\OOP\OOP\src\Game\Level\Level.cpp(89,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Code\OOP\full\OOP\OOP\src\Game\Level\Level.cpp(86,9): warning C4101: direction: неиспользованная локальная переменная
+D:\Code\OOP\full\OOP\OOP\src\Game\Level\Level.cpp(107,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Code\OOP\full\OOP\OOP\src\Game\Level\Level.cpp(104,9): warning C4101: direction: неиспользованная локальная переменная
+  OOP.vcxproj -> D:\Code\OOP\full\OOP\x64\Debug\OOP.exe
